@@ -1,4 +1,4 @@
-# Quantum Galton Box Simulation 🪄🧩
+# Quantum Galton Box Simulation 
 
 End-to-end, *reproducible* simulations of the **Quantum Galton Board (QGB)**:
 
