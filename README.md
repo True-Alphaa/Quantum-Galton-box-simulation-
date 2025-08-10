@@ -1,5 +1,11 @@
 # Quantum Galton Box Simulation
 
+**Womanium Wiser 2025 Quantum Project**
+**Team Name**: Qubiteers
+1. Edara Yaswanth Balaji (yaswanthbalajiedara@gmail.com)
+2. Ankit
+3. Soham
+
 **Goal.** A complete, reproducible implementation of *quantum Galton boards* (QGB) that:
 
 1. Builds the $N$-layer Galton board circuit and verifies the **Gaussian/binomial** distribution.
