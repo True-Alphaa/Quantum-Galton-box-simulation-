@@ -1,6 +1,7 @@
 # Quantum Galton Box Simulation
 
 **Womanium Wiser 2025 Quantum Project**
+
 **Team Name**: Qubiteers
 1. Edara Yaswanth Balaji (yaswanthbalajiedara@gmail.com)
 2. Ankit
